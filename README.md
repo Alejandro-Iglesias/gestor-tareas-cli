@@ -26,7 +26,7 @@ El proyecto se divide en tres módulos principales para garantizar la modularida
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone []()
+    git clone [https://github.com/Alejandro0708/gestor-tareas-cli.git](https://github.com/Alejandro0708/gestor-tareas-cli.git)
     cd gestor-tareas-cli
     ```
 2.  **Crear y Activar el Entorno Virtual (Recomendado):**
