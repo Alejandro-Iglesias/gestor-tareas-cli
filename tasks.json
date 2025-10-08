@@ -1,0 +1,30 @@
+[
+    {
+        "task_id": "138b9104-fbdc-49c1-9877-3f8151af86dd",
+        "description": "Nueva tarea con formato correcto",
+        "due_date": null,
+        "is_completed": true,
+        "created_at": "2025-10-06T12:43:02.797983"
+    },
+    {
+        "task_id": "cf6eee01-9670-4575-8c37-be414b9a786c",
+        "description": "finalizar las tareas",
+        "due_date": null,
+        "is_completed": false,
+        "created_at": "2025-10-06T13:36:10.300828"
+    },
+    {
+        "task_id": "d82973a1-622b-4b03-9be8-0641d66e4027",
+        "description": "hacer la comida",
+        "due_date": null,
+        "is_completed": true,
+        "created_at": "2025-10-06T14:48:20.100347"
+    },
+    {
+        "task_id": "47d9a62e-f211-4066-bc26-03dd06631344",
+        "description": "miercoles dentista",
+        "due_date": "2025-10-08",
+        "is_completed": true,
+        "created_at": "2025-10-06T20:32:32.186556"
+    }
+]
